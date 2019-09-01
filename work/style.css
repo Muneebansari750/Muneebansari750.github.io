@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(110deg , #27F0B3 60%, #23C694 60%);
+    height: 100vh;
+}
+.mm img{
+ float: left;
+    width: 367px;
+    height: 462px;
+    margin: 51px;
+    margin-top: 66px;
+}
+#ab{
+   margin: 11px;
+    margin-right: 66%;
+    color: white;
+    font-size: 35px;
+     list-style-type: none;
+    border-bottom: 2px solid white;
+}
+.ad{
+ margin: 11px;
+    margin-right: 0%;
+    color: white;
+    font-size: 17px;
+    list-style-type: none;
+    border-bottom: 2px solid white;
+}
+#ac {
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 36px;
+    margin-right: 59%;
+    margin-top: -12px;
+    border-bottom: 2px solid white;
+}
+
+.des {
+    list-style-type: none;
+    margin-right: 22%;
+    color: white;
+}

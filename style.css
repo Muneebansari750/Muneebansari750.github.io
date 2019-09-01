@@ -1,0 +1,32 @@
+body {
+    background-image: url(img/img4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.port {
+   margin-top: 10%;
+}
+.port li{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px;
+   padding-right: 3.5%;
+}
+.port li a {
+    text-decoration: none;
+    color: white;
+}
+.port li:hover {
+    color: red;
+    background-color: red;
+    cursor: pointer;
+}
